@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Tahaa Husain
+- 👀 UI/UX Designer
+- 🌱 I’m currently learning React and Py
+- 💞️ Founder @starnine.net
+- 📫 tahaa@starnine.net
+- ⚡ Fun fact: No one can beat my design
