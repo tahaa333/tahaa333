@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning React and Py
 - 💞️ Founder @starnine.net
 - 📫 tahaa@starnine.net
-- ⚡ Fun fact: No one can beat my design
+- ⚡ Fun fact: Most of my repos are private
